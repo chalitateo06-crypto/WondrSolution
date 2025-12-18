@@ -1,0 +1,7 @@
+{
+  "name": "wondr-Nation Ultimate Portal",
+  "description": "An exclusive financial portal for Mahasiswa & First Jobbers featuring AI mentoring, investment simulations, and reward tracking for the BNI wondr ecosystem.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
